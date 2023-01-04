@@ -1,36 +1,75 @@
 {
-  "comments": [
+  "issues": [
     {
       "id": 1,
-      "name": "Comment 1"
+      "order": 0,
+      "title": "asd",
+      "content": "asd",
+      "endDate": "2023-01-04",
+      "state": "todo",
+      "manager": "지웅"
     },
     {
       "id": 2,
-      "name": "Comment 2"
+      "order": 0,
+      "title": "zxc",
+      "content": "zxc",
+      "endDate": "2023-01-04",
+      "state": "doing",
+      "manager": "지웅"
     },
     {
       "id": 3,
-      "name": "Comment 3"
+      "order": 0,
+      "title": "qwe",
+      "content": "qwe",
+      "endDate": "2023-01-04",
+      "state": "done",
+      "manager": "지웅"
+    },
+    {
+      "id": 4,
+      "order": 0,
+      "title": "fgh",
+      "content": "fgh",
+      "endDate": "2023-01-04",
+      "state": "todo",
+      "manager": "지웅"
+    },
+    {
+      "id": 5,
+      "order": 0,
+      "title": "rty",
+      "content": "rty",
+      "endDate": "2023-01-04",
+      "state": "doing",
+      "manager": "지웅"
     }
   ],
-  "users": [
+  "managers": [
     {
       "id": 1,
-      "name": "User 1",
-      "username": "username1",
-      "email": "user1@example.com"
+      "name": "전해강"
     },
     {
       "id": 2,
-      "name": "User 2",
-      "username": "username2",
-      "email": "user2@example.com"
+      "name": "김안나"
     },
     {
       "id": 3,
-      "name": "User 3",
-      "username": "username3",
-      "email": "user3@example.com"
+      "name": "박혜선"
+    },
+    {
+      "id": 4,
+      "name": "안지웅"
+    },
+    {
+      "id": 5,
+      "name": "이윤진"
+    },
+    {
+      "id": 6,
+      "name": "최주은"
     }
   ]
 }
